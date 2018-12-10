@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="RESTful/src/main/java"/>
+	<classpathentry excluding="src/" kind="src" path="RMI_Proj"/>
+	<classpathentry kind="src" path="RMI_Proj/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="RESTful/target/classes"/>
+</classpath>
